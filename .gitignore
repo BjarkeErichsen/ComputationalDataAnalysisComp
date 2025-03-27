@@ -4,4 +4,3 @@ __pycache__/
 *.jpeg
 .DS_Store
 *.log
-*.csv
